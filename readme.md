@@ -14,3 +14,5 @@ You will also find that there is a file named pom.xml. This is a build file whic
 All future labs will involve modifying code in src/main/java such that all the test cases in src/test/java pass. No modifications need to be made here as the code has been written to pass all test cases from the start. You should, however, still run the test cases in GuideTest to familiarize yourself with the process of testing your code. You can run tests generally by clicking the 'run' button (usually drawn like a triangular 'play' button) inside a file containing test cases.
 
 ### There is no need to change anything in this lab. The lab following this one should be rather simple, it will just involve modifying a bit of text in a method. Proceed when you feel ready!
+
+Essien, Richard
